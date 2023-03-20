@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+/* Regole di debug */
+
+
+/* Regole Header:
+    1) parte in alto: font piccolo per il div centrale
+    - bottone 'accedi' top rightn (float right?)
+
+    2) parte centrale: scritte bianche
+    3) bottoni uno bianco uno nero
+*/
+
+
+/* Regole main:
+    1) img flot left
+    2) img float right
+    3) img float left
+    4) img and text align centre
+*/
+
+
+
+/* Regole footer:
+    5 colonne di diversa width
+*/
