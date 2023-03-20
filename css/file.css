@@ -10,6 +10,12 @@ a {
 
 .biggestbox{
     position: absolute;
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 /* Regole di debug */
 
